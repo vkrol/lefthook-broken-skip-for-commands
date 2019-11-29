@@ -1,0 +1,5 @@
+pre-commit:
+  commands:
+    foo:
+      skip: true
+      run: echo 123
